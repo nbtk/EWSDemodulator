@@ -3,8 +3,6 @@
 import pyaudio
 import numpy as np
 import time
-import scipy.fft
-import scipy.signal
 
 class EWSDemodulator():
     # Args for pyaudio
